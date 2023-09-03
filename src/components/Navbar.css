@@ -1,0 +1,12 @@
+#navbar {
+    background-color: #353535;
+    height: 8vh;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    padding-left: 2vw;
+    font-family: serif;
+    font-size: x-large;
+    user-select: none;
+    justify-content: space-around;
+}
